@@ -1,6 +1,6 @@
 # react-native-custom-code-input
 
-A simple react native code input component for both iOS and android plaforms.
+A simple react native code input component for both iOS and android platforms.
 
 
 
