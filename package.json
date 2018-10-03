@@ -1,0 +1,31 @@
+{
+  "name": "react-native-custom-code-input",
+  "version": "1.0.0",
+  "description": "A simple react native code input component for both iOS and android plaforms.",
+  "main": "CodeInput.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pushpendra-choudhary/react-native-custom-code-input.git"
+  },
+  "keywords": [
+    "react-component",
+    "react-native",
+    "ios",
+    "android",
+    "code",
+    "codeInput",
+    "input",
+    "confirmation",
+    "confirmationcode",
+    "confirmationInput"
+  ],
+  "author": "pushpendra choudhary",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pushpendra-choudhary/react-native-custom-code-input/issues"
+  },
+  "homepage": "https://github.com/pushpendra-choudhary/react-native-custom-code-input#readme"
+}
