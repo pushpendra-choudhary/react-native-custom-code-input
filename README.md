@@ -2,7 +2,11 @@
 
 A simple react native code input component for both iOS and android platforms.
 
+## Installation
 
+```js
+  npm install react-native-custom-code-input --save
+```
 
 ## Import
 ```js
